@@ -36,7 +36,7 @@ The test1 test checks the complete process of adding products to the cart and pl
 
 
 
-
+***********************************************************************************
 
 
 הטסט test1 בודק את תהליך הטיפול בשגיאות במערכת הקופה של אתר Atid Store. הוא מדSimulate את זרימת המשתמש הבאה:
